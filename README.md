@@ -22,11 +22,11 @@
 <!-- RECENT:START -->
 | Repo | Language | Description | Last push |
 |---|---|---|---|
+| [n8n-workflows](https://github.com/rigoordonio/n8n-workflows) | Python | n8n contact-form workflows with AI replies | 2026-10-27 |
+| [hadi-voice-assistant](https://github.com/rigoordonio/hadi-voice-assistant) | Python | Hadi voice assistant: wake word, local LLM, spoken replies | 2026-10-27 |
+| [ai-trading-bot](https://github.com/rigoordonio/ai-trading-bot) | Python | AI-assisted quant trading platform (backtest and paper trading) | 2026-10-27 |
 | [forecast-tracker-dashboard](https://github.com/rigoordonio/forecast-tracker-dashboard) | TypeScript | Business forecast tracker: Excel → PostgreSQL pipeline, React dashboard with KPIs, key accounts and exports, plus an AI 'ask the data' assistant (synthetic data) | 2026-10-27 |
 | [portfolio-website](https://github.com/rigoordonio/portfolio-website) | HTML | My personal portfolio website: three design versions, built with Claude | 2026-10-21 |
-| [ai-opportunity-intelligence-agent](https://github.com/rigoordonio/ai-opportunity-intelligence-agent) | Python | AI-powered Business Development Opportunity Intelligence Agent using Ollama, Qwen, Python, and automated email alerts. | 2026-10-21 |
-| [forecast-analytics-dashboard](https://github.com/rigoordonio/forecast-analytics-dashboard) | TypeScript | Forecast analytics dashboard: Excel → PostgreSQL pipeline with data-quality checks, a React dashboard and an AI "ask the data" assistant | 2026-10-21 |
-| [linkedin-job-match](https://github.com/rigoordonio/linkedin-job-match) | Python | Claude Code skill: find remote LinkedIn jobs matching a CV, rank by fit, and draft or email the best matches daily | 2026-10-21 |
 <!-- RECENT:END -->
 
 ## 📫 Contact
