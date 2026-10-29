@@ -22,11 +22,11 @@
 <!-- RECENT:START -->
 | Repo | Language | Description | Last push |
 |---|---|---|---|
+| [portfolio-website](https://github.com/rigoordonio/portfolio-website) | HTML | My personal portfolio website: three design versions, built with Claude | 2026-10-29 |
+| [today-i-learned](https://github.com/rigoordonio/today-i-learned) | Shell | Short daily notes on what I'm learning | 2026-10-29 |
 | [n8n-workflows](https://github.com/rigoordonio/n8n-workflows) | Python | n8n contact-form workflows with AI replies | 2026-10-27 |
 | [hadi-voice-assistant](https://github.com/rigoordonio/hadi-voice-assistant) | Python | Hadi voice assistant: wake word, local LLM, spoken replies | 2026-10-27 |
 | [ai-trading-bot](https://github.com/rigoordonio/ai-trading-bot) | Python | AI-assisted quant trading platform (backtest and paper trading) | 2026-10-27 |
-| [forecast-tracker-dashboard](https://github.com/rigoordonio/forecast-tracker-dashboard) | TypeScript | Business forecast tracker: Excel → PostgreSQL pipeline, React dashboard with KPIs, key accounts and exports, plus an AI 'ask the data' assistant (synthetic data) | 2026-10-27 |
-| [portfolio-website](https://github.com/rigoordonio/portfolio-website) | HTML | My personal portfolio website: three design versions, built with Claude | 2026-10-21 |
 <!-- RECENT:END -->
 
 ## 📫 Contact
