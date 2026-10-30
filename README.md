@@ -22,7 +22,7 @@
 <!-- RECENT:START -->
 | Repo | Language | Description | Last push |
 |---|---|---|---|
-| [portfolio-website](https://github.com/rigoordonio/portfolio-website) | HTML | My personal portfolio website: three design versions, built with Claude | 2026-10-29 |
+| [portfolio-website](https://github.com/rigoordonio/portfolio-website) | HTML | My personal portfolio website: three design versions, built with Claude | 2026-10-30 |
 | [today-i-learned](https://github.com/rigoordonio/today-i-learned) | Shell | Short daily notes on what I'm learning | 2026-10-29 |
 | [n8n-workflows](https://github.com/rigoordonio/n8n-workflows) | Python | n8n contact-form workflows with AI replies | 2026-10-27 |
 | [hadi-voice-assistant](https://github.com/rigoordonio/hadi-voice-assistant) | Python | Hadi voice assistant: wake word, local LLM, spoken replies | 2026-10-27 |
