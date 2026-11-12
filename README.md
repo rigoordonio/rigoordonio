@@ -22,11 +22,11 @@
 <!-- RECENT:START -->
 | Repo | Language | Description | Last push |
 |---|---|---|---|
+| [bft-screening](https://github.com/rigoordonio/bft-screening) | — | BFT screening SQL | 2026-11-12 |
 | [portfolio-website](https://github.com/rigoordonio/portfolio-website) | HTML | My personal portfolio website: three design versions, built with Claude | 2026-11-10 |
 | [today-i-learned](https://github.com/rigoordonio/today-i-learned) | Shell | Short daily notes on what I'm learning | 2026-10-29 |
 | [n8n-workflows](https://github.com/rigoordonio/n8n-workflows) | Python | n8n contact-form workflows with AI replies | 2026-10-27 |
 | [hadi-voice-assistant](https://github.com/rigoordonio/hadi-voice-assistant) | Python | Hadi voice assistant: wake word, local LLM, spoken replies | 2026-10-27 |
-| [ai-trading-bot](https://github.com/rigoordonio/ai-trading-bot) | Python | AI-assisted quant trading platform (backtest and paper trading) | 2026-10-27 |
 <!-- RECENT:END -->
 
 ## 📫 Contact
